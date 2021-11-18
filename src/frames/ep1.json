@@ -1,0 +1,44 @@
+[
+  {
+    "file": "ep1/ep1-00-00-00.jpg",
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "totalSeconds": 0
+  },
+  {
+    "file": "ep1/ep1-00-00-05.jpeg",
+    "hour": 0,
+    "minute": 0,
+    "second": 5,
+    "totalSeconds": 5
+  },
+  {
+    "file": "ep1/ep1-00-00-30.jpeg",
+    "hour": 0,
+    "minute": 0,
+    "second": 30,
+    "totalSeconds": 30
+  },
+  {
+    "file": "ep1/ep1-00-00-45.jpeg",
+    "hour": 0,
+    "minute": 0,
+    "second": 45,
+    "totalSeconds": 45
+  },
+  {
+    "file": "ep1/ep1-00-01-12.jpeg",
+    "hour": 0,
+    "minute": 1,
+    "second": 12,
+    "totalSeconds": 72
+  },
+  {
+    "file": "ep1/ep1-00-01-13.jpeg",
+    "hour": 0,
+    "minute": 1,
+    "second": 13,
+    "totalSeconds": 73
+  }
+]
